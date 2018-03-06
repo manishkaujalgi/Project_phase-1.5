@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paymentDetails>
+	<PaymentDetails payment_id="B777">
+		<CardNumber>27824295046739230</CardNumber>
+		<CardType>VISA</CardType>
+		<CardName>Howell</CardName>
+		<CardExpiry>08/20</CardExpiry>
+		<IssueBank>BOFA</IssueBank>
+		<BillingAddress>Chicago</BillingAddress>
+	</PaymentDetails>
+	<PaymentDetails payment_id="B789">
+		<CardNumber>24524266399504230</CardNumber>
+		<CardType>MasterCard</CardType>
+		<CardName>David</CardName>
+		<CardExpiry>05/22</CardExpiry>
+		<IssueBank>Chase</IssueBank>
+		<BillingAddress>Naperville</BillingAddress>
+	</PaymentDetails>
+	<PaymentDetails payment_id="B767">
+		<CardNumber>4983298718363597</CardNumber>
+		<CardType>MAESTRO</CardType>
+		<CardName>Harper</CardName>
+		<CardExpiry>09/24</CardExpiry>
+		<IssueBank>PNC</IssueBank>
+		<BillingAddress>Niles</BillingAddress>
+	</PaymentDetails>
+</paymentDetails>

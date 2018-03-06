@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booking_details>
+	<BookingDetails booking_id="B777">
+		<CustomerTitle>Mr</CustomerTitle>
+		<CustomerFirstName>John</CustomerFirstName>
+		<CustomerLastName>Howell</CustomerLastName>
+		<CustomerID>C123</CustomerID>
+		<Location>Chicago</Location>
+		<BookingDate>05/03/2018</BookingDate>
+		<StartDate>06/03/2018</StartDate>
+		<StartTime>15:30:00</StartTime>
+		<EndDate>08/03/2018</EndDate>
+		<EndTime>18:30:00</EndTime>
+		<BookingDuration>Calculate1</BookingDuration>
+		<CarName>Focus</CarName>
+		<CarModel>Ford</CarModel>
+		<CarColour>MidnightBlack</CarColour>
+		<CarNumber>MB007</CarNumber>
+		<AmountPaid>25$</AmountPaid>
+	</BookingDetails>
+	<BookingDetails booking_id="B737">
+		<CustomerTitle>Ms</CustomerTitle>
+		<CustomerFirstName>Sophia</CustomerFirstName>
+		<CustomerLastName>Danon</CustomerLastName>
+		<CustomerID>C234</CustomerID>
+		<Location>Naperville</Location>
+		<BookingDate>05/03/2018</BookingDate>
+		<StartDate>07/03/2018</StartDate>
+		<StartTime>14:30:00</StartTime>
+		<EndDate>09/03/2018</EndDate>
+		<EndTime>17:00:00</EndTime>
+		<BookingDuration>Calculate2</BookingDuration>
+		<CarName>Fiesta</CarName>
+		<CarModel>Ford</CarModel>
+		<CarColour>OrangePeel</CarColour>
+		<CarNumber>OP005</CarNumber>
+		<AmountPaid>25$</AmountPaid>
+	</BookingDetails>
+	<BookingDetails booking_id="B757">
+		<CustomerTitle>Mrs</CustomerTitle>
+		<CustomerFirstName>Amanda</CustomerFirstName>
+		<CustomerLastName>Harris</CustomerLastName>
+		<CustomerID>C345</CustomerID>
+		<Location>Niles</Location>
+		<BookingDate>05/03/2018</BookingDate>
+		<StartDate>16/03/2018</StartDate>
+		<StartTime>15:30:00</StartTime>
+		<EndDate>19/03/2018</EndDate>
+		<EndTime>19:30:00</EndTime>
+		<BookingDuration>Calculate3</BookingDuration>
+		<CarName>Mustang</CarName>
+		<CarModel>Ford</CarModel>
+		<CarColour>RoyalBlue</CarColour>
+		<CarNumber>MRF03</CarNumber>
+		<AmountPaid>25$</AmountPaid>
+	</BookingDetails>
+</booking_details>

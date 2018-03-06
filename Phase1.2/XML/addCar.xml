@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addcar>
+	<AddCar CarId="R12">
+		<CarName>Suburban</CarName>
+		<CarModel>Chevrolet</CarModel>
+		<CarNumber>JI90G2</CarNumber>
+		<CarColour>Silver</CarColour>
+		<SeatingCapacity>8</SeatingCapacity>
+		<DriverName>Mark</DriverName>
+		<DriverId>DL345</DriverId>
+	</AddCar>
+	<AddCar CarId="R14">
+		<CarName>Malibu</CarName>
+		<CarModel>Chevrolet</CarModel>
+		<CarNumber>J93D25</CarNumber>
+		<CarColour>Maroon</CarColour>
+		<SeatingCapacity>5</SeatingCapacity>
+		<DriverName>Carlson</DriverName>
+		<DriverId>DL355</DriverId>
+	</AddCar>
+	<AddCar CarId="R13">
+		<CarName>Fit</CarName>
+		<CarModel>Honda</CarModel>
+		<CarNumber>J920HU</CarNumber>
+		<CarColour>Green</CarColour>
+		<SeatingCapacity>4</SeatingCapacity>
+		<DriverName>Maddy</DriverName>
+		<DriverId>DL367</DriverId>
+	</AddCar>
+</addcar>

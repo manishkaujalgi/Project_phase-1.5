@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidateOTP>
+	<validateOTP id="C101">
+		<emailid>vaishubh12356@gmail.com</emailid>
+		<otp>13456</otp>
+	</validateOTP>
+	
+</ValidateOTP>

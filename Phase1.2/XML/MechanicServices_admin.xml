@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mechanicServices_admin>
+	<mechanicServices Carid="01">
+		<typeofService>Brake</typeofService>
+		<serviceStatus>In Progress</serviceStatus>
+	</mechanicServices>
+	<mechanicServices Carid="02">
+		<typeofService>Battery</typeofService>
+		<serviceStatus>Completed</serviceStatus>
+	</mechanicServices>
+	<mechanicServices Carid="03">
+		<typeofService>Tyre</typeofService>
+		<serviceStatus>Pending</serviceStatus>
+	</mechanicServices>
+</mechanicServices_admin>

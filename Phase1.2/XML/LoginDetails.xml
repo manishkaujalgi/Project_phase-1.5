@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Login>
+	<loginDetails Customerid="001">
+		<CustomerTitle>Ms</CustomerTitle>
+		<CustomerFirstName>Vaishnavi</CustomerFirstName>
+		<CustomerLastName>Bhadresh</CustomerLastName>
+		<pWord>234567</pWord>
+		<userType>admin</userType>
+		<emailID>vaishubh12@gmail.com</emailID>
+	</loginDetails>
+	<loginDetails Customerid="002">
+		<CustomerTitle>Mr</CustomerTitle>
+		<CustomerFirstName>Manish</CustomerFirstName>
+		<CustomerLastName>M K</CustomerLastName>
+		<pWord>234587</pWord>
+		<userType>admin</userType>
+		<emailID>manishmukund@gmail.com</emailID>
+	</loginDetails>
+	<loginDetails Customerid="003">
+		<CustomerTitle>Ms</CustomerTitle>
+		<CustomerFirstName>Inchara</CustomerFirstName>
+		<CustomerLastName>Desai</CustomerLastName>
+		<pWord>234570</pWord>
+		<userType>customer</userType>
+		<emailID>incharadesai@gmail.com</emailID>
+	</loginDetails>
+	<loginDetails Customerid="004">
+		<CustomerTitle>Mr</CustomerTitle>
+		<CustomerFirstName>Jaswanth</CustomerFirstName>
+		<CustomerLastName>Jagdeesh</CustomerLastName>
+		<pWord>234577</pWord>
+		<userType>user</userType>
+		<emailID>jjagdessh@gmail.com</emailID>
+	</loginDetails>
+	
+</Login>

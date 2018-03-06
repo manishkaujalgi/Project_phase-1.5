@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carDetails_admin>
+	<carDetails Carid="01">
+		<CarName>Focus</CarName>
+		<CarModel>Ford</CarModel>
+		<Location>Chicago</Location>
+	</carDetails>
+	<carDetails Carid="02">
+		<CarName>Feista</CarName>
+		<CarModel>Ford</CarModel>
+		<Location>Niles</Location>
+	</carDetails>
+	<carDetails Carid="03">
+		<CarName>Vaishnavi</CarName>
+		<CarModel>Mustang</CarModel>
+		<Location>Naperville</Location>
+	</carDetails>
+	
+</carDetails_admin>
